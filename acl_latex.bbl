@@ -1,0 +1,73 @@
+\begin{thebibliography}{11}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Bock(1986)}]{bock1986meaning}
+J~Kathryn Bock. 1986.
+\newblock Meaning, sound, and syntax: Lexical priming in sentence production.
+\newblock \emph{Journal of Experimental Psychology: Learning, Memory, and
+  Cognition}, 12(4):575.
+
+\bibitem[{Branigan et~al.(2010)Branigan, Pickering, Pearson, and
+  McLean}]{branigan2010linguistic}
+Holly~P Branigan, Martin~J Pickering, Jamie Pearson, and Janet~F McLean. 2010.
+\newblock Linguistic alignment between people and computers.
+\newblock \emph{Journal of pragmatics}, 42(9):2355--2368.
+
+\bibitem[{Branigan et~al.(2003)Branigan, Pickering, Pearson, McLean, and
+  Nass}]{branigan2003syntactic}
+Holly~P Branigan, Martin~J Pickering, Jamie Pearson, Janet~F McLean, and
+  Clifford Nass. 2003.
+\newblock Syntactic alignment between computers and people: The role of belief
+  about mental states.
+\newblock In \emph{Proceedings of the 25th annual conference of the cognitive
+  science society}, volume~31. Lawrence Erlbaum Associates Hillsdale, NJ, USA.
+
+\bibitem[{Branigan et~al.(2000)Branigan, Pickering, Stewart, and
+  Mclean}]{Branigan2000}
+Holly~P. Branigan, Martin~J. Pickering, Andrew~J. Stewart, and Janet~F. Mclean.
+  2000.
+\newblock \href {https://doi.org/10.3758/BF03211830} {Syntactic priming in
+  spoken production: Linguistic and temporal interference}.
+\newblock \emph{Memory \& Cognition}, 28(8):1297--1302.
+
+\bibitem[{Fox et~al.(2010)Fox, Maschler, and Uhmann}]{fox20102487}
+Barbara~A. Fox, Yael Maschler, and Susanne Uhmann. 2010.
+\newblock \href {https://doi.org/https://doi.org/10.1016/j.pragma.2010.02.006}
+  {A cross-linguistic study of self-repair: Evidence from english, german, and
+  hebrew}.
+\newblock \emph{Journal of Pragmatics}, 42(9):2487--2505.
+\newblock How people talk to Robots and Computers.
+
+\bibitem[{GiliiBueno(Accessed on 2023-09-18)}]{xarxaxdev-FurhatInterviewRobot}
+GiliiBueno. Accessed on 2023-09-18.
+\newblock {FurhatInterviewRobot} github repository.
+\newblock \url{https://github.com/xarxaxdev/FurhatInterviewRobot}.
+
+\bibitem[{Hayashi(1994)}]{hayashi1994comparative}
+Makoto Hayashi. 1994.
+\newblock A comparative study of self-repair in english and japanese
+  conversation.
+\newblock \emph{Japanese/Korean Linguistics}, 4:77--93.
+
+\bibitem[{Pickering and Garrod(2004)}]{pickering_garrod_2004}
+Martin~J. Pickering and Simon Garrod. 2004.
+\newblock \href {https://doi.org/10.1017/S0140525X04000056} {Toward a
+  mechanistic psychology of dialogue}.
+\newblock \emph{Behavioral and Brain Sciences}, 27(2):169–190.
+
+\bibitem[{Schlangen and Skantze(2011)}]{schlangen2011general}
+David Schlangen and Gabriel Skantze. 2011.
+\newblock A general, abstract model of incremental dialogue processing.
+\newblock \emph{Dialogue \& Discourse}, 2(1):83--111.
+
+\bibitem[{Shriberg(1994)}]{shriberg1994preliminaries}
+Elizabeth~Ellen Shriberg. 1994.
+\newblock \emph{Preliminaries to a theory of speech disfluencies}.
+\newblock Ph.D. thesis, Citeseer.
+
+\bibitem[{Wouk(2005)}]{wouk2005syntax}
+Fay Wouk. 2005.
+\newblock The syntax of repair in indonesian.
+\newblock \emph{Discourse Studies}, 7(2):237--258.
+
+\end{thebibliography}
